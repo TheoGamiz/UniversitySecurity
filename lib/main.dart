@@ -30,7 +30,6 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
   static const List<Widget> _widgetOptions = <Widget>[
     Text(
       'Numéros utiles et plan de l\'université',
-      style: optionStyle,
     ),
     Text(
       'Consignes à respecter',
